@@ -34,7 +34,8 @@ You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/gui
 **Part 2: Make it interactive**
 
 4. Now add a button to the app
-5. Create a method that reverses the message string when the button is clicked. *Note: Use the [v-on](https://vuejs.org/v2/guide/events.html#Method-Event-Handlers) directive to attach an event listener that invokes a method on our Vue instances.*
+5. Create a method that reverses the message string when the button is clicked. 
+   *Note: Use the [v-on](https://vuejs.org/v2/guide/events.html#Method-Event-Handlers) directive to attach an event listener that invokes a method on our Vue instances.*
 6. Make the text box directly change the message in real-time.
 
 **Part 3: The To-Do List**
