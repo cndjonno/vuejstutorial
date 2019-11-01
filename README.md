@@ -29,7 +29,7 @@ You are ready to start the exercise!
 2. Download the [development version](https://vuejs.org/js/vue.js) of Vue.js and store it in your project folder.
 3. Open the cloned folder and double click index.html. You should see Hello Vue in your browser.
 
-You can find the referencet to the syntax at [vuejs.org](https://vuejs.org/v2/guide/syntax.html).
+You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/guide/syntax.html).
 
 **Part 2: Make it interactive**
 
