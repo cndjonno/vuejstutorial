@@ -56,11 +56,12 @@ In order to make your app more robust, add the following:
 11. When the input field has text inside and the user hits the button, clear the field.
 12. Add a clear all button to reset the page.
 13. Add a remove button for each item in the list.
-14. Go meet the others around you to see what they built. If you see something that you have not done before, ask them how they did it!
+14. Can you think of any ways to improve the To-Do list website?  
+15. Go meet the others around you to see what they built. If you see something that you have not done before, ask them how they did it!
 
 If you made it all the way to the end, bravo!
 
 ### **What's next?**
 
-* Can you think of any ways to improve the To-Do list website?  
 * What other website ideas can you think of?
+* Ask others what they have built in their spare time or what they do for work.
