@@ -23,7 +23,7 @@ You are ready to start the exercise!
 
 ## Exercise
 
-**Part 1: Setup Hello Vue**
+### **Part 1: Setup Hello Vue**
 
 1. Turn the person on your left and/or right and introduce yourself. This is a meet up group after all!
 2. Clone a copy of the Hello Vue app from github.com/codersuk.
@@ -33,7 +33,7 @@ You are ready to start the exercise!
 You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/guide/syntax.html).
 
 
-**Part 2: Make it interactive**
+### **Part 2: Make it interactive**
 
 5. Now add a button to the app
 6. Create a method that reverses the message string when the button is clicked. 
@@ -42,7 +42,7 @@ You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/gui
 
 Great job! Now lets create a webpage that puts many elements together.
 
-**Part 3: The To-Do List**
+### **Part 3: The To-Do List**
 
 Now we are going to create an interactive webpage by creating a to-do list. You can modify the app that you just built or start from scratch.  
 
@@ -60,7 +60,7 @@ In order to make your app more robust, add the following:
 
 If you made it all the way to the end, bravo!
 
-**What's next?**
+### **What's next?**
 
 * Can you think of any ways to improve the To-Do list website?  
 * What other website ideas can you think of?
