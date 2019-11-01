@@ -23,29 +23,45 @@ You are ready to start the exercise!
 
 ## Exercise
 
-**Part 1: Setup Hello Vue**
+### **Part 1: Setup Hello Vue**
 
-1. Clone a copy of the Hello Vue app from github.com/codersuk.
-2. Download the [development version](https://vuejs.org/js/vue.js) of Vue.js and store it in your project folder.
-3. Open the cloned folder and double click index.html. You should see Hello Vue in your browser.
+1. Turn the person on your left and/or right and introduce yourself. This is a meet up group after all!
+2. Clone a copy of the Hello Vue app from github.com/codersuk.
+3. Download the [development version](https://vuejs.org/js/vue.js) of Vue.js and store it in your project folder.
+4. Open the cloned folder and double click index.html. You should see Hello Vue in your browser.
 
-**Part 2: Make it interactive**
+You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/guide/syntax.html).
 
-4. Now add a button to the app
-5. Create a method that reverses the message string when the button is clicked. Note: Use the [v-on](https://vuejs.org/v2/guide/events.html#Method-Event-Handlers) directive to attach an event listener that invokes a method on our Vue instances.
-6. Make the text box directly change the message in real-time.
 
-**Part 3: The To-Do List**
+### **Part 2: Make it interactive**
 
-Now we are going to create an interactive webpage by creating a to-do list. You can modify the app that you just built or start from scratch. 
-Create an app that has an input field and a button. 
+5. Now add a button to the app
+6. Create a method that reverses the message string when the button is clicked. 
+   *Note: Use the [v-on](https://vuejs.org/v2/guide/events.html#Method-Event-Handlers) directive to attach an event listener that invokes a method on our Vue instances.*
+7. Make the text box directly change the message in real-time.
+
+Great job! Now lets create a webpage that puts many elements together.
+
+### **Part 3: The To-Do List**
+
+Now we are going to create an interactive webpage by creating a to-do list. You can modify the app that you just built or start from scratch.  
+
+8. Create an app that has an input field and a button. 
 
 When a user fills out the input field and hits the button, the list should display the newly added item. 
 In order to make your app more robust, add the following:
-8. When the input field is blank, clicking the button should not add items to the list.
-9. Store the list in an array.
-10. When the input field has text inside and the user hits the button, clear the field.
-11. Add a clear all button to reset the page.
-12. Add a remove button for each item in the list.
 
+9. When the input field is blank, clicking the button should not add items to the list.
+10. Store the list in an array.
+11. When the input field has text inside and the user hits the button, clear the field.
+12. Add a clear all button to reset the page.
+13. Add a remove button for each item in the list.
+14. Can you think of any ways to improve the To-Do list website?  
+15. Go meet the others around you to see what they built. If you see something that you have not done before, ask them how they did it!
 
+If you made it all the way to the end, bravo!
+
+### **What's next?**
+
+* What other website ideas can you think of?
+* Ask others what they have built in their spare time or what they do for work.
