@@ -40,11 +40,13 @@ You can find the reference to the syntax at [vuejs.org](https://vuejs.org/v2/gui
 
 **Part 3: The To-Do List**
 
-Now we are going to create an interactive webpage by creating a to-do list. You can modify the app that you just built or start from scratch. 
-Create an app that has an input field and a button. 
+Now we are going to create an interactive webpage by creating a to-do list. You can modify the app that you just built or start from scratch.  
+
+7. Create an app that has an input field and a button. 
 
 When a user fills out the input field and hits the button, the list should display the newly added item. 
 In order to make your app more robust, add the following:
+
 8. When the input field is blank, clicking the button should not add items to the list.
 9. Store the list in an array.
 10. When the input field has text inside and the user hits the button, clear the field.
